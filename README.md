@@ -1,26 +1,26 @@
-# 🛡️ PhishScan — Email Threat Detector
+# PhishScan — Email Threat Detector
 
 PhishScan is a browser-based phishing detection tool that analyzes email content for common attack patterns such as spoofed domains, credential harvesting, urgency tactics, and malicious links.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔍 Real-time phishing analysis
-* 📊 Threat scoring system (0–100)
-* 🚨 Detection of:
+*  Real-time phishing analysis
+* Threat scoring system (0–100)
+*  Detection of:
 
   * Spoofed domains
   * Suspicious URLs
   * Credential harvesting attempts
   * Urgency-based attacks
   * Prize scams
-* 📈 Visual dashboard with indicators
-* 🧪 Built-in phishing samples for testing
+*  Visual dashboard with indicators
+*  Built-in phishing samples for testing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * HTML5
 * CSS3 (Custom UI system)
@@ -29,7 +29,7 @@ PhishScan is a browser-based phishing detection tool that analyzes email content
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The system evaluates email content using heuristic rules:
 
@@ -42,7 +42,7 @@ Each trigger contributes to a threat score.
 
 ---
 
-## ▶️ Run Locally
+##  Run Locally
 
 1. Clone the repo:
 
@@ -58,7 +58,7 @@ index.html
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Machine Learning model integration
 * Backend API for real-time scanning
@@ -67,13 +67,13 @@ index.html
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Harneet Kaur
 Cybersecurity & Data Analytics Professional
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for educational purposes only and does not replace enterprise-grade security systems.
